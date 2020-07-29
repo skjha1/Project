@@ -965,11 +965,3 @@ plt.xticks(size=20)
 plt.yticks(size=20)
 plt.show()
 
-
-# # 8969599129- Shivendra jha
-
-# In[ ]:
-
-
-
-
