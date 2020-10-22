@@ -1,4 +1,4 @@
-## Reference
+## References
 * [PyMC3](https://docs.pymc.io)
 * [Quick-R](https://www.statmethods.net)
 * [STAT462](https://newonlinecourses.science.psu.edu/stat462/node/77/)
