@@ -1,6 +1,6 @@
 ## References
 * [PyMC3](https://docs.pymc.io)
-*[Stats](https://www.youtube.com/playlist?list=PL568547ACA9211CCA)
+* [Stats](https://www.youtube.com/playlist?list=PL568547ACA9211CCA)
 * [Quick-R](https://www.statmethods.net)
 * [STAT462](https://newonlinecourses.science.psu.edu/stat462/node/77/)
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
